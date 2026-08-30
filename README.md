@@ -1,17 +1,66 @@
 # أهلاً وسهلاً 🤗
 
-## Who am I?? 🇹🇹🧕🏾
-I’m a proud Trini and a current student at NYUAD, pursuing a major in Computer Science with a minor in Interactive Media. I have a strong passion for Software Development and AI, and I enjoy building websites—sometimes just for fun, but mostly for assignments. Lately, I’ve been diving into deep learning and machine learning, especially with the rise of LLMs (Large Language Models), and I’m eager to stay ahead of the curve. Oh, and I can’t forget—I absolutely love the beach! 🌴
+## Hi, I’m Khaleeqa 🇹🇹🧕🏾
 
-## 🔭 I’m currently working on 
-Currently, I’m working as a research assistant with Sanad Lab on some fascinating projects focused on software development and improving the lives of software developers. At the same time, I’m deepening my skills in Unity and game design, which are passions of mine. As I explore XR and other emerging tech, I’m focusing on strengthening my understanding of VR, ensuring I stay versatile in the field. I’m passionate about blending my creativity from Interactive Media with a solution-oriented approach in Computer Science to explore new possibilities and tackle challenges.
+I’m a Computer Science graduate from NYU Abu Dhabi, originally from Trinidad and Tobago.
 
-## 🌱 I’m currently learning 
-Right now, I’m diving deeper into Software Development, continuously building on my foundation and expanding my expertise in the field. Alongside that, I’ve developed a passion for Arabic, and I’m dedicating time to learning it more seriously. It’s been a rewarding challenge and has quickly become a favorite pursuit, keeping me quite busy. On the tech side, I’m starting to explore the world of deep learning and venturing beyond what I know in TensorFlow. I’m particularly interested in learning about different frameworks and techniques in machine learning to broaden my understanding and become more proficient in the space. As I explore these areas, I'm eager to tackle new problems and keep pushing my skills to the next level.
+A lot of my interest in technology came from studying in such an international environment. Being around people from different countries made me think more about how differently we experience the internet, AI, privacy, access, and technology in general depending on where we come from.
 
-##  🤔 I’m looking for help with 
-ANYTHING!, I'm always looking for opportunities to expand my knowledge and skills! I'm very willing to learn and pick things up quickly, whether it's a new technology, framework, or concept. If there's something I don't know yet, I'm eager to dive in and master it—just give me the right resources, and I’m all in (except if it's math then respectfully, no thank you)!
+That eventually shaped the kind of work I became interested in.
 
-## ⚡ Fun fact: 
-I can code with one hand while eating pizza with the other. Multi-tasking at its finest!
+I started out mostly enjoying software development and building things, but over time I found myself drawn to questions around AI fairness and web privacy. I’ve worked on research studying fairness across large language models, and more recently on how websites handle tracking, cookie consent, and privacy across different countries.
 
+I like the space where research meets building, understanding how a system behaves, figuring out where it can fail, and then trying to make something better.
+
+## What I’ve been working on
+
+At NYU Abu Dhabi, I worked on projects across AI, privacy, and software systems.
+
+One of my main research projects looked at fairness in large language models such as GPT, Llama, Gemini, and Mistral. I studied how model accuracy and fairness change across different datasets and demographic groups, and whether larger or more capable models are necessarily fairer.
+
+I’ve also worked on web privacy research, studying things like:
+
+- third-party tracking
+- cookie consent banners
+- browser fingerprinting
+- HTTP traffic
+- Consent Management Platforms
+- differences in privacy practices across countries
+
+In one project, I analyzed almost 47,000 web requests across popular websites to understand how users are tracked online.
+
+Lately, I’ve been especially interested in how these issues affect developing and underrepresented regions, where privacy protections and digital infrastructure may look very different.
+
+## I also like building things
+
+Not everything I do is research.
+
+I’ve built a Unix shell from scratch in C, worked with TCP socket programming, created web crawlers, and built different interactive projects throughout my time at NYUAD.
+
+Right now, I’m building **WeyWeGoing**, an AI-powered travel planning project where I’m experimenting with LLMs, APIs, structured outputs, tool calling, and agent-like workflows.
+
+It started from a simple idea — making trip planning less annoying — but I’m mainly using it as a way to learn how to build AI systems that actually interact with real data and tools instead of only generating text.
+
+## Things I’m interested in
+
+AI engineering  
+Responsible AI  
+Web privacy  
+Cybersecurity  
+Software engineering  
+AI agents  
+Human-centered technology
+
+I’m still figuring out exactly where I want to specialize, and I’m okay with that. I enjoy learning across different areas and seeing where they overlap.
+
+## Tech I’ve worked with
+
+`Python` `C` `C++` `JavaScript` `HTML/CSS`  
+`Linux` `Git` `OpenWPM` `Fairlearn`  
+`LLM APIs` `TCP/IP` `Web Crawling` `HTTP Analysis`
+
+## Outside of code
+
+I love travelling, music, photography, and the beach, although being from Trinidad probably makes the last one a requirement. 🌴
+
+I’m always open to interesting projects, collaborations, and opportunities to learn something new.
